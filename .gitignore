@@ -1,0 +1,11 @@
+# Node
+node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
