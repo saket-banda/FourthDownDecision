@@ -1,11 +1,7 @@
-# Node
 node_modules/
 frontend/dist/
-
-# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-
-# OS
+.virtual_documents/
 .DS_Store
